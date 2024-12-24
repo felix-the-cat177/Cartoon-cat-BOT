@@ -1,0 +1,1 @@
+//isCreator = somente o dono!

@@ -1,0 +1,22 @@
+[ Toda vez que aparecer y/n sempre e y e da enter ]
+
+
+COMANDOS :
+
+➩ 1- termux-change-repo
+
+APERTA OK 2 vezes
+_________________________
+➩ 2- termux-setup-storage
+_________________________
+➩ 3- cd /sdcard/CARTOON_CAT_BOT_V1.0.0
+
+ou
+
+cd /sdcard/download/CARTOON_CAT_BOT_V1.0.0
+_________________________
+➩ 4- sh instalar.sh
+_________________________
+➩ 5- sh start.sh
+
+By: Félix o gato
